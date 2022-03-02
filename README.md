@@ -8,3 +8,6 @@ Angela Kim, “US Pollution 2000-2021.” Kaggle, 2022, doi: 10.34740/KAGGLE/DSV
 ### Tools  
 Python  
 Spreadsheets
+
+### Additonal Resources
+[Project Visualizations](https://public.tableau.com/app/profile/justin.turverey/viz/AirQualityProject_16461952305340/Storyboard)
